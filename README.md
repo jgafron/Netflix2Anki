@@ -1,3 +1,4 @@
+![Netflix2Anki](https://raw.githubusercontent.com/jgafron/Netflix2Anki/main/images/Netflix2Anki.png)
 # AI Language Mining Assistant
 
 > An AI-powered desktop application that turns screenshots into editable Anki flashcards using OCR, computer vision, OpenAI, and Anki integration.
