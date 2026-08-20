@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build output
+build/
+dist/
+
+# Temporary runtime files
+processed_image.png
+temp_image.png
+snip.png
+out.wav
+
+# User configuration (contains API keys)
+settings.ini
+sentence_miner/resources/settings.ini
+
+# Virtual environments
+.venv/
+venv/
